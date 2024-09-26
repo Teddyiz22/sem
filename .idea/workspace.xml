@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="br nyar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +141,7 @@
       <updated>1727239560814</updated>
       <workItem from="1727239561799" duration="7368000" />
       <workItem from="1727274244062" duration="3863000" />
-      <workItem from="1727326473293" duration="1555000" />
+      <workItem from="1727326473293" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="files added">
       <option name="closed" value="true" />
@@ -225,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727326631385</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="br nyar">
+      <option name="closed" value="true" />
+      <created>1727330493349</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727330493349</updated>
+    </task>
+    <task id="LOCAL-00012" summary="br nyar">
+      <option name="closed" value="true" />
+      <created>1727330581022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727330581022</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +263,7 @@
     <MESSAGE value="third added" />
     <MESSAGE value="4 added" />
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="br nyar" />
+    <option name="LAST_COMMIT_MESSAGE" value="br nyar" />
   </component>
 </project>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="4 added" />
+    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,6 +143,7 @@
       <updated>1727239560814</updated>
       <workItem from="1727239561799" duration="7368000" />
       <workItem from="1727274244062" duration="3863000" />
+      <workItem from="1727326473293" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="files added">
       <option name="closed" value="true" />
@@ -214,11 +217,30 @@
       <option name="project" value="LOCAL" />
       <updated>1727324850289</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added">
+      <option name="closed" value="true" />
+      <created>1727326631385</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727326631385</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="files added" />
@@ -226,6 +248,7 @@
     <MESSAGE value="second time commit" />
     <MESSAGE value="third added" />
     <MESSAGE value="4 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 added" />
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
 </project>

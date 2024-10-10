@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="br nyar 7">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/test_db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/napier/devops/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6edf9c2a-35bf-4530-af29-a50e73cd3703" name="Changes" comment="br nyar 8">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/napier/sem/AppIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/napier/sem/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/blank.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/napier/devops/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,41 +64,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Docker.Docker Image (1).executor": "Run",
-    "Docker.Docker Image (2).executor": "Run",
-    "Docker.Docker Image (3).executor": "Run",
-    "Docker.Docker Image.executor": "Run",
-    "Docker.Dockerfile.executor": "Run",
-    "Docker.db/Dockerfile.executor": "Run",
-    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
-    "Docker.test-dockerfile/Dockerfile.executor": "Run",
-    "JUnit.AppTest.executor": "Coverage",
-    "JUnit.MyTest.executor": "Run",
-    "JUnit.com.napier.sem in seMethods.executor": "Run",
-    "Maven.seMethods [compile].executor": "Run",
-    "Maven.seMethods [package].executor": "Run",
-    "Maven.seMethods [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/mongo-intergration",
-    "javascript.karma.karma_node_package_dir": "",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Docker Image (1).executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Docker Image (2).executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Docker Image (3).executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Docker Image.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.db/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.test-dockerfile/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.com.napier.sem in seMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seMethods [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seMethods [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seMethods [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seMethods [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/mongo-intergration&quot;,
+    &quot;javascript.karma.karma_node_package_dir&quot;: &quot;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.AppTest">
+}</component>
+  <component name="RunManager" selected="JUnit.com.napier.sem in seMethods">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seMethods" />
       <extension name="coverage">
@@ -267,6 +265,7 @@
       <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
       <item itemvalue="Docker.Docker Image (3)" />
       <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="JUnit.MyTest" />
       <item itemvalue="JUnit.com.napier.sem in seMethods" />
       <item itemvalue="JUnit.AppTest" />
     </list>
@@ -305,7 +304,8 @@
       <workItem from="1727710789525" duration="123000" />
       <workItem from="1727711039887" duration="6643000" />
       <workItem from="1728277058295" duration="6868000" />
-      <workItem from="1728445402704" duration="3777000" />
+      <workItem from="1728445402704" duration="7091000" />
+      <workItem from="1728550046417" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="files added">
       <option name="closed" value="true" />
@@ -443,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727687175186</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="br nyar 8">
+      <option name="closed" value="true" />
+      <created>1728449423816</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728449423816</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +481,8 @@
     <MESSAGE value="br nyar 3" />
     <MESSAGE value="br nyar 4" />
     <MESSAGE value="br nyar 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="br nyar 5" />
+    <MESSAGE value="br nyar 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="br nyar 8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sem$AppTest.ic" NAME="AppTest Coverage Results" MODIFIED="1728449111114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

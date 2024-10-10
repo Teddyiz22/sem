@@ -1,7 +1,5 @@
-package com.napier.devops;
+package com.napier.sem;
 
-import com.napier.sem.App;
-import com.napier.sem.Employee;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
@@ -23,7 +21,7 @@ public class AppTest
     @Test
     void printSalariesTestNull()
     {
-        app.printSalaries(null);
+        app.displayEmployee(null);
     }
 
     @Test
